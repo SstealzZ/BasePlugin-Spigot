@@ -1,0 +1,4 @@
+name: Workshop Plugin
+version: 1.0
+main: fr.sstealzz.workshop.Main
+commands:
